@@ -1,0 +1,131 @@
+body{
+background-image: url(https://cdn.wallpapersafari.com/24/41/SfFlA6.jpg);
+font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(14, 10, 10);
+        margin: 0px;
+        padding: 0px;
+        font-size: 13px;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+}
+.left {
+    display: inline-block;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+    color: rgb(83, 9, 73);
+    font-size: 3em;
+    
+}
+/*.right {
+    position: absolute;
+    right: 34px;
+    top: 43px;
+    display: inline-block;
+    max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 120px;}*/
+    
+
+
+.mid {
+    display: block;
+    width: 36%;
+    margin: 29px auto;
+}
+.navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.navbar li a {
+    color: rgb(243, 130, 196);
+    text-decoration: none;
+    padding: 34px 23px;
+
+}
+
+.navbar li a:hover,
+.navbar li a.active {
+    text-decoration: underline;
+    color: grey;
+
+}
+.image{
+    margin-left: 400px;
+    margin-right: 820px;
+    border-style:ridge ;
+    margin-top: 1px;
+    padding-left: 11px;
+    padding-right: 20px;
+    border-width: 20px;
+    
+}
+.para{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 1050px;
+    margin-top: 20px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+.heading{
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 20px;
+}
+.bottomlinks{
+    display: block;
+    width: 36%;
+    margin: 29px auto;
+}
+.bottomlinks {
+    display: inline-block;
+}
+
+.bottomlinks li {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.bottomlinks li a {
+    color: rgb(243, 130, 196);
+    text-decoration: none;
+    padding: 34px 23px;
+
+}
+
+.bottomlinks li a:hover,
+.bottomlinks li a.active {
+    text-decoration: underline;
+    color: grey;
+
+}
+.travelling{
+    display: inline block;
+    margin-left: 220px;
+    margin-top: 20px;
+
+  
+}
+.readingbooks { 
+    display: inline block;
+    margin-left: 220px;
+}
+.movies{
+    display: inline block;
+    margin-left: 220px;
+  
+}
+.Badminton{
+    display: inline block;
+    margin-left: 220px;
+}
+.progress{
+    margin-top: 150px;
+    margin-left: 400px;
+}
